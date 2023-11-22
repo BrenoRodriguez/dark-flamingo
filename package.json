@@ -2,12 +2,12 @@
   "name": "dark-flamingo",
   "displayName": "Dark Flamingo",
   "description": "A VScode theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "dark-flamingo",
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/BrenoRodriguez/dark-flamingo"
-  }
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
